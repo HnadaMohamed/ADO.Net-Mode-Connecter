@@ -1,1 +1,1 @@
-# ADO.Net-Mode-Connect-
+# ADO.Net Mode Connecte
